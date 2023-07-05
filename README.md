@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hou Anxin</h1>
 <h3 align="center">I am currently a student at YTU</h3>
-
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbb le.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/embed/a6pzK009rlCak)">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobehouax&label=Profile%20views&color=92edb0&style=flat-square" alt="jacobehouax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobehouax" alt="jacobehouax" /></a> </p>
