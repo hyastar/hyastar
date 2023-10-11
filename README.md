@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jacobehouax" target="blank"><img src="https://img.shields.io/twitter/follow/jacobehouax?logo=twitter&style=for-the-badge" alt="jacobehouax" /></a> </p>
 
-- 🌱 I’m currently learning **C Java and data structures**
+- 🌱 I’m currently learning **C , Java and data structures**
 
 - 📝 I regularly write articles on [My blog](https://hyastar.com)
 
