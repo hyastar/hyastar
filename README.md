@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C Java and data structures**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/m0_74112514?spm=1010.2135.3001.5343](https://blog.csdn.net/m0_74112514?spm=1010.2135.3001.5343)
+- 📝 I regularly write articles on [https:hyastar.com](https://hyastar.com)
 
 - 📫 How to reach me **alpha.hydrae.zero@outlook.com**
 
