@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **C Java and data structures**
 
-- 📝 I regularly write articles on [https:hyastar.com](https://hyastar.com)
+- 📝 I regularly write articles on [My blog](https://hyastar.com)
 
-- 📫 How to reach me **alpha.hydrae.zero@outlook.com**
+- 📫 How to reach me **jacobe.houax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
