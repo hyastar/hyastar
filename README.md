@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hyastars" target="blank"><img src="https://img.shields.io/twitter/follow/hyastars?logo=twitter&style=for-the-badge" alt="hyastars" /></a> </p>
 
-- 🌱 I’m currently learning **C , Java and data structures**
+- 🌱 I’m currently learning **C/C++ , Java ， linux ，data structures and  embedded**
 
 - 📝 I regularly write articles on [My blog](https://blog.hyastar.com)
 
