@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [My blog](https://blog.hyastar.com)
 
-- 📫 How to reach me **megumi@hyastar.com**
+- 📫 How to reach me **contact@mka.cc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
