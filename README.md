@@ -42,21 +42,12 @@
 
 ###
 <div align="center">
-  <video id="myVideo" height="200" controls autoplay muted loop playsinline>
+  <video id="myVideo" height="200" >
     <source src="https://alist.hyastar.net/d/img/HTML/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA%20%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E7%89%88%E5%BC%80%E5%9C%BA%E5%8A%A8%E7%94%BB.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var video = document.getElementById('myVideo');
-  video.play().catch(function(error) {
-    console.log("Autoplay was prevented. You may need to interact with the page to start the video.");
-    // Optionally, you could display a message to the user here
-  });
-});
-</script>
 ###
 
 <div align="left">
