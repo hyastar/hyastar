@@ -6,12 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=30&pause=500&color=2ED5D1F6&background=6328FF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=My+name+is+hyastar+;I%E2%80%99m+a+student+from+YTU;passionate+about+IoT+application+technologies)](https://git.io/typing-svg)
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=3000&pause=1000&color=2ED5D1F6&background=6328FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=200&lines=My+name+is+hyastar;I'm+a+student+from+YTU;passionate+about+IoT+application+technologies)](https://git.io/typing-svg)
 
 </div>
 
