@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://alist.hyastar.net/d/img/HTML/alist-%E5%A4%9C%E9%97%B4%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3r%E4%BA%94%E5%91%A8%E5%B9%B401.jpg" alt="背景图片" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+  
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hyastar&left_color=red&right_color=green) 
 
 <h1 align="center">Hey 👋 What's up?</h1>
@@ -136,3 +140,4 @@
 <img src="https://raw.githubusercontent.com/hyastar/hyastar/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
