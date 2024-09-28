@@ -138,8 +138,3 @@
 <img src="https://raw.githubusercontent.com/hyastar/hyastar/output/snake.svg" alt="Snake animation" />
 
 ###
-<!-- 深色模式图片 -->
-![GitHub Dark](https://github.com/github-dark.png#gh-dark-mode-only)
-
-<!-- 浅色模式图片 -->
-![GitHub Light](https://github.com/github-light.png#gh-light-mode-only)
