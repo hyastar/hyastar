@@ -1,26 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is hyastar and I’m a student from YTU, with a keen interest in and dedication to researching the IoT.</p>
+<p align="center">My name is hyastar and I’m a student from YTU, with a keen interest in and dedication to researching the IoT.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<br clear="both">
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C++ and STM32<br>🎯 Goals: Preparing for postgraduate entrance exams<br>🎲 Fun fact:  I love running</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning C++ and STM32<br>🎯 Goals: Preparing for postgraduate entrance exams<br>🎲 Fun fact:  I love running</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -36,11 +34,11 @@
 
 ###
 
-<h2 align="left">Languages mastered</h2>
+<h2 align="center">Languages mastered</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -68,11 +66,11 @@
 
 ###
 
-<h2 align="left">Future learning plans</h2>
+<h2 align="center">Future learning plans</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
@@ -84,11 +82,11 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://twitter.com/hyastars" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
