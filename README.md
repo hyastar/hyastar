@@ -18,11 +18,14 @@
 
 ###
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=4000&pause=100000&color=2ED5D1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=150&lines=✨+Creating+bugs+since+2022;📚+Currently+learning+C%2B%2B+and+STM32;🎯+Preparing+for+postgraduate+entrance+exams;🎲+Fun+fact%3A+I+love+running)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <b>
+    ✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐<br>
+    📚 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂++ 𝐚𝐧𝐝 𝐒𝐓𝐌𝟑𝟐<br>
+    🎯 𝐆𝐨𝐚𝐥𝐬: 𝐏𝐫𝐞𝐩𝐚𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐩𝐨𝐬𝐭𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐞𝐧𝐭𝐫𝐚𝐧𝐜𝐞 𝐞𝐱𝐚𝐦𝐬<br>
+    🎲 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: 𝐈 𝐥𝐨𝐯𝐞 𝐫𝐮𝐧𝐧𝐢𝐧𝐠
+  </b>
+</p>
 
 ###
 
