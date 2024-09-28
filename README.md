@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">Languages mastered</h2>
+<h2 align="center">Languages mastered or learned</h2>
 
 ###
 
