@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.de">
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,qt,matlab" />
   </a>
 </p>
@@ -47,7 +47,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.de">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,vue,mysql,nginx,redis,docker,markdown" />
   </a>
 </p>
@@ -59,7 +59,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.de">
     <img src="https://skillicons.dev/icons?i=go,rust,spring,blender" />
   </a>
 </p>
