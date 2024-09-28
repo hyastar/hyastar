@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,vue,mysql,nginx,redis,docker,markdown" />
+    <img src="https://skillicons.dev/icons?i=c,c++,java,html,css,js,vue,mysql,nginx,redis,docker,markdown" />
   </a>
 </p>
 
