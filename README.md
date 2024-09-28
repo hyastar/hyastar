@@ -5,8 +5,7 @@ RGB colors eg: #595959 needs to be %23595959 in the URL
 
 ###
 
-<p align="center">My name is hyastar and I’m a student from YTU, with a keen interest in and dedication to researching the IoT.</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4C030&background=6328FF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=My+name+is+hyastar+and+I%E2%80%99m+a+student+from+YTU%2C+with+a+keen+interest+in+and+dedication+to+researching+the+IoT.)](https://git.io/typing-svg)
 ###
 
 <h2 align="center">About me</h2>
