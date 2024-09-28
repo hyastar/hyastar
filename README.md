@@ -20,9 +20,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=24&duration=4000&pause=1000&color=2ED5D1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=150&lines=✨+Creating+bugs+since+2022;📚+Currently+learning+C%2B%2B+and+STM32;🎯+Preparing+for+postgraduate+entrance+exams;🎲+Fun+fact%3A+I+love+running)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=4000&pause=100000&color=2ED5D1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=150&lines=✨+Creating+bugs+since+2022;📚+Currently+learning+C%2B%2B+and+STM32;🎯+Preparing+for+postgraduate+entrance+exams;🎲+Fun+fact%3A+I+love+running)](https://git.io/typing-svg)
 
 </div>
+
 ###
 
 <h2 align="center">I code with</h2>
