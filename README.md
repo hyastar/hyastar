@@ -4,7 +4,10 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=30&pause=500&color=2ED5D1F6&background=6328FF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=My+name+is+hyastar+;passionate+about+IoT+application+technologies)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=30&pause=500&color=2ED5D1F6&background=6328FF00&center=真的&vCenter=错误的&repeat=真的&random=错误的&width=435&lines=My+name+is+hyastar+;passionate+about+IoT+application+technologies" alt="Typing SVG" /></a>
+</p>
+
 ###
 
 <h2 align="center">About me</h2>
