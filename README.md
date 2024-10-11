@@ -100,7 +100,7 @@
   <a href="https://www.youtube.com/@hyastar-1314" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="contact@mka.cc" target="_blank">
+  <a href="mailto:contact@mka.cc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.paypal.com/paypalme/hyastar1314" target="_blank">
