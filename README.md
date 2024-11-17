@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=cs,go,rust,spring,blender,ps,ae" />
+    <img src="https://skillicons.dev/icons?i=cs,go,rust,blender" />
   </a>
 </p>
 
