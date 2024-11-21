@@ -94,19 +94,22 @@
 
 <div align="center">
   <a href="https://twitter.com/hyastars" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://alist.hyastar.net/d/img/HTML/twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://t.me/hyastars" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://alist.hyastar.net/d/img/HTML/telegram.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.youtube.com/@hyastar-1314" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://alist.hyastar.net/d/img/HTML/youtube.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="mailto:contact@mka.cc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://alist.hyastar.net/d/img/HTML/microsoft-outlook.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.paypal.com/paypalme/hyastar1314" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+    <img src="https://alist.hyastar.net/d/img/HTML/paypal.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+  <a href="https://btcscan.org/" target="_blank">
+    <img src="https://alist.hyastar.net/d/img/HTML/bitcoin-btc-logo.svg" width="52" height="40" alt="paypal logo"  />
   </a>
 </div>
 
