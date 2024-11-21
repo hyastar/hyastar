@@ -79,7 +79,7 @@
 ###
 
 ###
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyastar)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyastar)
 ###
 
 <div align="center">
