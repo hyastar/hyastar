@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Social</h2>
 
 ###
 
