@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vue,linux,qt,matlab" />
   </a>
 </p>
 
