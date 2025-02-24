@@ -23,6 +23,7 @@
     ✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐<br>
     📚 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂/𝐂++ , 𝐌𝐂𝐔 𝐚𝐧𝐝 𝐀𝐑𝐌<br>
     🎯 𝐃𝐞𝐞𝐩 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐌𝐂𝐔 𝐚𝐧𝐝 𝐀𝐑𝐌, 𝐦𝐚𝐬𝐭𝐞𝐫 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐚𝐧𝐝 𝐎𝐒, 𝐞𝐱𝐩𝐥𝐨𝐫𝐞 𝐞𝐝𝐠𝐞 𝐜𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐨𝐫 𝐀𝐈<br>
+    🎨 𝐑𝐞𝐚𝐝𝐢𝐧𝐠, 𝐫𝐮𝐧𝐧𝐢𝐧𝐠, 𝐚𝐧𝐢𝐦𝐞, 𝐡𝐨𝐩𝐢𝐧𝐠 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐝𝐫𝐚𝐰𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚𝐧𝐢𝐦𝐞 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠<br>
   </b>
 </p>
 
@@ -66,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender" />
+    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender,tensorflow" />
   </a>
 </p>
 
