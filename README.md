@@ -108,9 +108,6 @@
   <a href="https://www.paypal.com/paypalme/hyastar1314" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="https://btcscan.org/" target="_blank">
-    <img src="https://github.com/hyastar/hyastar/blob/main/attachment/bitcoin-btc-logo.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
 </div>
 
 ###
