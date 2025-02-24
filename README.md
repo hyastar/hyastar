@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=.NET,blender" />
+    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender" />
   </a>
 </p>
 
