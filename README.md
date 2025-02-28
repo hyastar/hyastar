@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender,python,tensorflow" />
   </a>
 </p>
 
