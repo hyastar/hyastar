@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vue" />
   </a>
 </p>
 
@@ -67,11 +67,11 @@
 
 <p align="center">
   <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender,python,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=cs,sqlite,blender,python,pytorch,tensorflow" />
   </a>
 </p>
 
-###
+##,
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyastar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
