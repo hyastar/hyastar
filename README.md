@@ -59,23 +59,22 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,vue,nuxt,nodejs,markdown&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,nuxt,nodejs,markdown&theme=light" />
   </a>
 </p>
 
 
 ###
 
-<h2 align="center">Future learning plans</h2>
-
-###
+<h2 align="center">Tools & Databases I Often Use</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,sqlite,redis,blender,opencv,python,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,docker,linux&theme=light" />
   </a>
 </p>
 
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyastar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
