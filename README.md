@@ -46,7 +46,7 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">Platforms & Tools I Work With</h2>
+<h2 align="center">Backend & System Utilities</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
