@@ -22,7 +22,7 @@
 
 ✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐢𝐧 𝐡𝐨𝐦𝐞 𝐈𝐨𝐓 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br>
 📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡<br>
-C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.j<br>
+C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js<br>
 🧠 𝐅𝐨𝐜𝐮𝐬<br>
 Home IoT stack · edge AI gateways · embedded Linu<br>
 📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</br>
@@ -55,15 +55,14 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">Languages mastered or learned</h2>
-
-###
+<h2 align="center">Languages & Frameworks I Use</h2>
 
 <p align="center">
-  <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=c,cpp,vue,html,css,js" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,vue,nuxt,nodejs,markdown&theme=light" />
   </a>
 </p>
+
 
 ###
 
@@ -72,7 +71,7 @@ Reading · running · anime
 ###
 
 <p align="center">
-  <a href="https://skillicons.de">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,sqlite,redis,blender,opencv,python,pytorch,tensorflow" />
   </a>
 </p>
