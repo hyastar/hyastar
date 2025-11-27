@@ -36,7 +36,7 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">Languages & Frameworks I Use</h2>
+<h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +56,7 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">Tools & Platforms I Use</h2>
+<h2 align="center">Tools & Platforms</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
