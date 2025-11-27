@@ -40,7 +40,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,nuxt,nodejs,markdown&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,python,nuxt,nodejs,markdown&theme=light" />
   </a>
 </p>
 
