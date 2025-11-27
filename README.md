@@ -46,11 +46,21 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">Tools & Databases I Often Use</h2>
+<h2 align="center">Platforms & Tools I Work With</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,qt,linux&theme=light" />
+  </a>
+</p>
+
+###
+
+<h2 align="center">🧰 Tools & Platforms I Use</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,blender,debian,matlab,obsidian,stackoverflow,vscode&theme=light" />
   </a>
 </p>
 
@@ -61,7 +71,6 @@ Reading · running · anime
   <img src="https://github-readme-stats.vercel.app/api?username=hyastar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyastar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
