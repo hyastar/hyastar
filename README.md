@@ -36,25 +36,6 @@ Reading · running · anime
 
 ###
 
-<h2 align="center">I code with</h2>
-
-###
-
-<p align="center">
-  <a href="https://skillicons.de">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,matlab" />
-  </a>
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyastar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyastar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">Languages & Frameworks I Use</h2>
 
 <p align="center">
@@ -62,7 +43,6 @@ Reading · running · anime
     <img src="https://skillicons.dev/icons?i=c,cpp,go,nuxt,nodejs,markdown&theme=light" />
   </a>
 </p>
-
 
 ###
 
@@ -73,6 +53,15 @@ Reading · running · anime
     <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,docker,linux&theme=light" />
   </a>
 </p>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyastar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyastar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 ###
 
