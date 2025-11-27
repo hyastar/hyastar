@@ -50,7 +50,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,qt,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,postgres,nginx,qt,linux&theme=light" />
   </a>
 </p>
 
