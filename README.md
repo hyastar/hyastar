@@ -72,7 +72,10 @@ Reading · running · anime
 ###
 
 ###
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyastar)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hyastar" alt="Wakatime Stats" />
+</div>
+
 ###
 
 <div align="center">
