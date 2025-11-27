@@ -18,29 +18,21 @@
 
 ###
 
-<h2 align="center">About me</h2>
-
 <div align="center">
 
-✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐢𝐧 𝐡𝐨𝐦𝐞 𝐈𝐨𝐓 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br><br>
-
+✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐢𝐧 𝐡𝐨𝐦𝐞 𝐈𝐨𝐓 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br>
 📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡<br>
-C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js<br><br>
-
+<b>C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js</b><br>
 🧠 𝐅𝐨𝐜𝐮𝐬<br>
-Home IoT stack · edge AI gateways · embedded Linux (Buildroot)<br><br>
-
-📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠<br>
-𝐦𝐨𝐝𝐞𝐫𝐧 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐭𝐡𝐞𝐨𝐫𝐲 · 𝐝𝐞𝐞𝐩 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 · 𝐑𝐎𝐒<br><br>
-
-🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥𝐬<br>
-𝐃𝐒𝐏<br><br>
-
-🎨 𝐎𝐟𝐟𝐥𝐢𝐧𝐞 𝐦𝐨𝐝𝐞<br>
-Reading · running · anime<br>
+<b>Home IoT stack · edge AI gateways · embedded Linux (Buildroot)</b><br>
+📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</br>
+modern control theory · deep learning · ROS<br>
+🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥𝐬</br>
+DSP<br>
+🎨 𝐎𝐟𝐟𝐥𝐢𝐧𝐞 𝐦𝐨𝐝𝐞</br>
+Reading · running · anime
 
 </div>
-
 
 ###
 
