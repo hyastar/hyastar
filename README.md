@@ -60,7 +60,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,blender,debian,matlab,obsidian,stackoverflow,vscode,vim&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,azure,blender,debian,matlab,obsidian,stackoverflow,vscode,vim&theme=light" />
   </a>
 </p>
 
