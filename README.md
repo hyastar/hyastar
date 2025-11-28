@@ -22,7 +22,7 @@
 
 <div align="center">
 
-✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐢𝐧 𝐡𝐨𝐦𝐞 𝐈𝐨𝐓 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br>
+✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br>
 📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡<br>
 C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js<br>
 🧠 𝐅𝐨𝐜𝐮𝐬<br>
