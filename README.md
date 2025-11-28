@@ -50,7 +50,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,postgres,nginx,qt,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,qt,linux&theme=light" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,azure,blender,debian,matlab,obsidian,stackoverflow,vscode,vim&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,azure,blender,debian,ubuntu,matlab,obsidian,stackoverflow,vscode,vim,anaconda,arduino,raspberrypi,clion,docker&theme=light" />
   </a>
 </p>
 
