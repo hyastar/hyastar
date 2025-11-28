@@ -26,7 +26,7 @@
 📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡<br>
 C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js<br>
 🧠 𝐅𝐨𝐜𝐮𝐬<br>
-Home IoT stack · edge AI gateways · embedded Linu<br>
+Home IoT stack · edge AI gateways · embedded Linux<br>
 📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</br>
 modern control theory · deep learning · ROS<br>
 🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥𝐬</br>
