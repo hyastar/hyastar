@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=3000&pause=1000&color=2ED5D1F6&width=600&height=140&lines=Hi%2C+I'm+Hyastar;Independent+Developer;IoT+%7C+Embedded+%7C+Fullstack)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=3000&pause=1000&color=2ED5D1&center=true&vCenter=true&width=650&height=140&lines=Hi%2C+I'm+Hyastar;Independent+Developer;IoT+%7C+Embedded+%7C+Fullstack" alt="Typing SVG" />
 
 </div>
 
