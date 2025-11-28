@@ -30,7 +30,7 @@ Home IoT stack · edge AI gateways · embedded Linu<br>
 📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</br>
 modern control theory · deep learning · ROS<br>
 🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥𝐬</br>
-DSP<br>
+DSP · control<br>
 🎨 𝐎𝐟𝐟𝐥𝐢𝐧𝐞 𝐦𝐨𝐝𝐞</br>
 Reading · running · anime
 
