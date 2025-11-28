@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=3000&pause=1000&color=2ED5D1&center=true&vCenter=true&width=650&height=140&lines=Hi%2C+I'm+hyastar;Independent+Developer;IoT%C2%B7Embedded%C2%B7Fullstack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=28&duration=3000&pause=1000&color=2ED5D1&center=true&vCenter=true&width=650&height=140&lines=Hi%2C+I'm+hyastar;Independent+Developer;IoT%C2%B7Embedded%C2%B7DSP%C2%B7Control%C2%B7Fullstack" alt="Typing SVG" />
 
 </div>
 
