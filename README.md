@@ -24,7 +24,7 @@
 
 ✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐛𝐮𝐠𝐬 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟐 🐞<br>
 📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡<br>
-C/C++ · Golang · Python · ESP32/STM32/AT32 · Nuxt.js · Node.js<br>
+C/C++ · Golang · Python · Nuxt.js · Node.js · ESP32/STM32/AT32<br>
 🧠 𝐅𝐨𝐜𝐮𝐬<br>
 Home IoT stack · edge AI gateways · embedded Linux<br>
 📈 𝐅𝐮𝐭𝐮𝐫𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</br>
@@ -52,7 +52,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,nginx,qt,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,nginx,qt,linux&theme=light" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Reading · running · anime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,azure,blender,debian,ubuntu,matlab,obsidian,stackoverflow,vscode,vim,anaconda,arduino,raspberrypi,clion,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,stackoverflow,azure,vscode,obsidian,clion,docker,matlab,anaconda,arduino,blender,debian,ubuntu,vim,raspberrypi&theme=light" />
   </a>
 </p>
 
