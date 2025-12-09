@@ -86,13 +86,7 @@ Reading · running · anime
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hyastar" alt="Wakatime Stats" />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://alist.hyastar.net/d/img/HTML/2233.gif"  />
+  <img src="https://readme-stats.hyastar.top/api/wakatime?username=hyastar&layout=compact&theme=dracula" alt="Wakatime Stats" />
 </div>
 
 ###
