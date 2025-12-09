@@ -1,6 +1,6 @@
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hyastar&left_color=red&right_color=green) 
+![Profile Views](https://komarev.com/ghpvc/?username=hyastar&label=Views&color=blue&style=flat)
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
